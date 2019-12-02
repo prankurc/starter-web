@@ -1,6 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-
+# this line is added newly ----- 
 # TEAM
 
     <name> -- <role> -- <twitter>
@@ -10,7 +10,7 @@ this is the chenage
 
 # THANKS
 
-    <name>
+    Thanks sirr!
 
 # TECHNOLOGY COLOPHON
 
